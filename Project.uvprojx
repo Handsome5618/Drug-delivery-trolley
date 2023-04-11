@@ -735,6 +735,26 @@
               <FileType>5</FileType>
               <FilePath>.\Hardware\Tracking.h</FilePath>
             </File>
+            <File>
+              <FileName>usart3.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\usart3.c</FilePath>
+            </File>
+            <File>
+              <FileName>usart3.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\usart3.h</FilePath>
+            </File>
+            <File>
+              <FileName>CountSensor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\CountSensor.c</FilePath>
+            </File>
+            <File>
+              <FileName>CountSensor.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\CountSensor.h</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

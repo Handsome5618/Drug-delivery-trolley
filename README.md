@@ -1,3 +1,3 @@
-—#STM32code
+#Drug-delivery-trolley
 2021年全国电子设计竞赛F题智能送药小车的代码，目前实现了目标一
-主控选用STM32f103CC8T6，电机选用5V直流电机，图像处理模块为OPENMV
+主控选用STM32f103C8T6，电机选用5V直流电机，图像处理模块为OPENMV
